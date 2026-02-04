@@ -1,2 +1,4 @@
+HEAD
+Line from branch Y
 Line from branch X
-
+c7863966b4de0deeda4b3199e9fa829920e836c3
